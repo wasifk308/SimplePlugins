@@ -1,5 +1,6 @@
-# SimplePlugins
-Help you to Understand how to create Plugins for Unity3d with the help of other languages.
+# Create C++ plugins for Unity3d 
+
+This will help you to Understand how to create Plugins for Unity3d with the help of other languages.
 
 
 Part 1:
